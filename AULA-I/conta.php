@@ -26,6 +26,6 @@ echo $camiseta->precoFinal();
 // Resultado: 90
 */
 
-class conta {
+public class conta {
     public $preco; public $preco2;
 }
